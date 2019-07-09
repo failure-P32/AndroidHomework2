@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Games Hot List</string>
+    <string name="inputid">输入学号</string>
+    <string name="inputpwd">输入密码</string>
+    <string name="inputinfo">输入信息</string>
+    <string name="inputname">输入名称</string>
+    <string name="inputhot">输入热度</string>
+    <string name="submit">注册或登录</string>
+    <string name="add">添加</string>
+    <string name="zju">浙江大学</string>
+</resources>
